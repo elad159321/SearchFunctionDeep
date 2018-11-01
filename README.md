@@ -1,6 +1,8 @@
 # SearchFunctionDeep
 The application searches for all files that contains a specified string under the current directory , the application displays the list of all matching files (full path)
 
+
+    important:
 how to open - important to read: 
 the current directory (directory that the project is in it) is in the folder named: "first_app".
 open the folder first_app into the "visual studio code"  , and then the function will search the string in the files ,
