@@ -1,5 +1,5 @@
 //New comment for checking "push git"
-
+//newbranch
 
 //process.argv for take the right word from the user command , example: node start.js txt ori
 //Example explain: ndoe filename filetype StringToSearch
